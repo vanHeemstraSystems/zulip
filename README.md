@@ -1,7 +1,9 @@
-repository-name
-# Repository Name
+zulip
+# Zulip
 
-Based on "ABC" at https://www.abc.com/
+Based on "Zulip" at https://www.zulip.com/
+
+Based on "Zulip App" at https://www.zulipchat.com/
 
 ## 100 - Introduction
 
