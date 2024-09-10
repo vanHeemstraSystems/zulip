@@ -6,8 +6,8 @@ Start the Zulip App (here for the organization **wvanheemstra**) on MacOS and lo
 
 ## 100 - Start a conversation
 
-== IMAGE GOES HERE ==
+See [README.md](./100/README.md)
 
 ## 200 - Add a message to a conversation
 
-
+See [README.md](./200/README.md)
